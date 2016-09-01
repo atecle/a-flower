@@ -1,4 +1,3 @@
 # a-flower
-a flower
 
-adamtecle.com/a-flower
+[a flower](http://adamtecle.com/a-flower)
